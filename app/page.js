@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <section className="flex min-h-full items-center justify-center">
       <div className="max-w-3xl text-center">
-        <p className="mb-4 font-semibold uppercase tracking-widest text-purple-400">
+        <p className="mb-4 font-semibold uppercase tracking-widest text-[#25C2FF]">
           Welcome to Pixel Peak
         </p>
 

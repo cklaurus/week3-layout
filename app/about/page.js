@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <section className="mx-auto max-w-3xl">
-      <p className="mb-3 font-semibold uppercase tracking-widest text-purple-400">
+      <p className="mb-3 font-semibold uppercase tracking-widest text-[#25C2FF]">
         Our Community
       </p>
 
